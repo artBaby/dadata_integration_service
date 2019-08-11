@@ -1,8 +1,7 @@
 
 # dadata_integration_service
 
-It's an integration service to dadata.ru. Allows to translate a textual address into coordinates.
-
+It's an integration service to dadata.ru. Allows to translate a textual address into coordinates.  
 Deploys to *localhost:8010*
 
 Request URL example:
@@ -15,10 +14,10 @@ Response example with addressString *"спб невский 17"*:
 
     {"latitude":59.9358319,"longitude":30.32086}
 
-How tu run:
+How to run:
 
 `$ java -jar dadata_integration_service.jar`
 
-Due paid request logs with current balance are showed in console.
+Due to paid requests logs with current balance are showed in a console.  
 Current balance 7.2RUB. Price for 1 request - 0.1RUB
 [Download JAR file](https://drive.google.com/file/d/1jjNBhAEu3afpfppIZRNxAbPnQQ98fZ-3/view?usp=sharing "Download JAR file")
