@@ -18,6 +18,9 @@ Deploys to *localhost:8010*
 
 `$ java -jar dadata_integration_service.jar`
 
+[Download JAR file](https://drive.google.com/file/d/1jjNBhAEu3afpfppIZRNxAbPnQQ98fZ-3/view?usp=sharing "Download JAR file")
+
 Due to paid requests logs with current balance are showed in a console.  
 Current balance 7.2RUB. Price for 1 request - 0.1RUB
-[Download JAR file](https://drive.google.com/file/d/1jjNBhAEu3afpfppIZRNxAbPnQQ98fZ-3/view?usp=sharing "Download JAR file")
+
+
